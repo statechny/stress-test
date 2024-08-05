@@ -13,7 +13,7 @@ This project is designed to create a simple web page that accepts requests and s
 1. Clone the repository and navigate to the project directory:
 
     ```bash
-    git clone <repository-url>
+    git clone git@github.com:statechny/stress-test.git
     cd stress-test
     ```
 
